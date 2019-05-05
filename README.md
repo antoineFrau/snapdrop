@@ -11,6 +11,11 @@
 * [Material Design](https://material.google.com/)
 
 
+### What next ?
+
+#### File type 
+Sharing links, text, notes.
+
 ### Frequently Asked Questions
 
 ### Instructions
